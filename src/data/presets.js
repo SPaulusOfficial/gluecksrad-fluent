@@ -33,21 +33,10 @@ export const PRESET2 = {
   background: 'static/smrt.jpg',
   removeWinning: false,
   prizes: [
-    { name: 'Trailhead Sticker', freq: 4, bg: '#FFCC80', text: '#222', hide: false, fontMod: 1 },
-    { name: 'Trailhead Tasse', freq: 4, bg: '#F48FB1', text: '#222', hide: false, fontMod: 1 },
-    { name: 'Astro Plüsch Schlüsselanhänger', freq: 4, bg: '#81D4FA', text: '#222', hide: false, fontMod: 1 },
-    { name: 'Lightning Fault', freq: 4, bg: '#B39DDB', text: '#222', hide: false, fontMod: 1 },
-    { name: 'Delay 10 mins', freq: 4, bg: '#C5E1A5', text: '#222', hide: false, fontMod: 1 },
-    { name: 'Track Fault', freq: 4, bg: '#F48FB1', text: '#222', hide: false, fontMod: 1 },
-    { name: 'Delay 40 mins', freq: 4, bg: '#81D4FA', text: '#222', hide: false, fontMod: 1 },
-    { name: 'Full-day Closure', freq: 4, bg: '#FFCC80', text: '#222', hide: false, fontMod: 1 },
-    { name: 'Train Fault', freq: 4, bg: 'white', text: '#222', hide: false, fontMod: 1 },
-    { name: 'Delay 20 mins', freq: 4, bg: '#81D4FA', text: '#222', hide: false, fontMod: 1 },
-    { name: 'Signal Fault', freq: 4, bg: '#B39DDB', text: '#222', hide: false, fontMod: 1 },
-    { name: 'Delay 10 mins', freq: 4, bg: '#C5E1A5', text: '#222', hide: false, fontMod: 1 },
-    { name: 'No Delay', freq: 1, bg: '#111', text: 'white', hide: false, fontMod: 1.4 },
-    { name: 'Collision', freq: 2, bg: '#ef9a9a', text: '#222', hide: false, fontMod: 1 },
-    { name: 'No Delay', freq: 1, bg: '#111', text: 'white', hide: false, fontMod: 1.4 }
+    { name: 'Trailhead Sticker', freq: 10, bg: '#FFCC80', text: '#222', hide: false, fontMod: 1 },
+    { name: 'Trailhead Tasse', freq: 7, bg: '#F48FB1', text: '#222', hide: false, fontMod: 1 },
+    { name: 'Astro Plüsch Schlüsselanhänger', freq: 1, bg: '#81D4FA', text: '#222', hide: false, fontMod: 1 },
+    { name: 'LinkedIn Company Post', freq: 1, bg: '#B39DDB', text: '#222', hide: false, fontMod: 1 },
   ]
 };
 
